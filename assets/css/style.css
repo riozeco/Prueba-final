@@ -23,3 +23,11 @@ nav {
   font-size: 10pt;
   color: #a0a0a0;
 }
+
+.informacion {
+  background-image: url(../img/informacion.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem
+}
