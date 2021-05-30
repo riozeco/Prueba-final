@@ -38,3 +38,12 @@ nav {
  margin-bottom: 10rem;
  margin-top: 30rem;
 }
+
+footer {
+background-color: #000000;
+
+}
+
+.texto-footer {
+  font-size: 12pt;
+}
