@@ -1,5 +1,25 @@
 body {
-  font-family: 'Montserrat', sans-serif; }
-  
+  font-family: 'Source Code Pro', monospace; }
+
 nav {
   position: fixed;}
+
+
+.titulo {
+  font-size: 10pt;
+  color: #6a6a6a;
+}
+
+.titulo-bajo {
+  font-size: 10pt;
+  color: #a0a0a0;
+}
+
+.icono {
+  color: #6a6a6a;
+}
+
+.parrafo {
+  font-size: 10pt;
+  color: #a0a0a0;
+}
